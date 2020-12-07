@@ -31,7 +31,7 @@ The aim of this project is to develop a dashboard or analytical framework to stu
 
 
 
-## Team 2 Members:
+## Team Members:
   - Raiana Zaman 
   - Francis Perez
   - Xinrui Zhang
